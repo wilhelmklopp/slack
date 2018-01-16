@@ -15,7 +15,7 @@ interface Ilog {
  */
 module.exports = async (req: Request & { log: Ilog }, res: Response) => {
   const { robot, resource, installation, gitHubUser, slackWorkspace } = res.locals;
-  const { Subscription } = robot.models;
+  const { Subscription } = res.locals.models;
   const command = req.body;
 
   req.log.debug({ installation, resource }, "Lookup respository to subscribe");
