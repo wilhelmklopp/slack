@@ -2,7 +2,7 @@
 
 exports[`Repository rendering works for condensed unfurls 1`] = `
 Object {
-  "color": "#24292f",
+  "color": "#ffffff",
   "fallback": "bkeepers/dotenv",
   "fields": Array [
     Object {

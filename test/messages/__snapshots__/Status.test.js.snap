@@ -16,7 +16,7 @@ Object {
 exports[`Status rendering works for all checks pass 1`] = `
 Object {
   "color": "#28a745",
-  "fallback": "All checks have passed",
+  "fallback": "All the checks you'd ever want to have passed, have actually passed :tada:",
   "footer": "5/5 successful checks",
   "text": ":white_check_mark: All checks have passed",
 }
