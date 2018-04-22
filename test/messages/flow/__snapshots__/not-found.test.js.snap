@@ -8,7 +8,7 @@ Object {
       "mrkdwn_in": Array [
         "text",
       ],
-      "text": "Could not find resource: \`atom/atom\`",
+      "text": "Hi! Could not find resource: \`atom/atom\`",
     },
   ],
   "response_type": "ephemeral",
