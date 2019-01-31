@@ -4,7 +4,7 @@ workflow "Take snapshots" {
 }
 
 action "Snappydoo" {
-  uses = "docker://node:slim",
-  runs = "npx",
+  uses = "docker://buildkite/puppeteer"
+  runs = "npx"
   args = "snappydoo"
 }
