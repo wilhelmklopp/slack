@@ -18,7 +18,7 @@ Object {
   "color": "#28a745",
   "fallback": "All checks have passed",
   "footer": "5/5 successful checks",
-  "text": ":white_check_mark: All checks have passed",
+  "text": ":white_check_mark: All checks have passed Yay!! :D",
 }
 `;
 
@@ -27,6 +27,6 @@ Object {
   "color": "#28a745",
   "fallback": "4 other checks have passed",
   "footer": "4/5 successful checks",
-  "text": ":white_check_mark: 4 other checks have passed",
+  "text": ":white_check_mark: 4 other checks have passed. So close!!!!!",
 }
 `;
