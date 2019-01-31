@@ -6,5 +6,5 @@ workflow "Take snapshots" {
 action "Snappydoo" {
   uses = "docker://node:slim",
   runs = "npx",
-  args = "snapydoo"
+  args = "snappydoo"
 }
