@@ -2,7 +2,7 @@
 
 exports[`Blob rendering works for binary files that are images 1`] = `
 Object {
-  "color": "#24292f",
+  "color": "#14292g",
   "fallback": "[bkeepers/dotenv] resources/app-icons/stable/png/64.png",
   "footer": "<https://github.com/bkeepers/dotenv|bkeepers/dotenv>",
   "footer_icon": "https://assets-cdn.github.com/favicon.ico",
