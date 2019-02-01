@@ -4,5 +4,5 @@ workflow "Take snapshots" {
 }
 
 action "Snappydoo" {
-  uses = "integrations/snappydoo-action@e390bd2"
+  uses = "integrations/snappydoo-action@2110d56"
 }
